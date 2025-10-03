@@ -1,2 +1,2 @@
 # catchatgame
-A game about chatting with your friends online. 
+A game about chatting with your friends online on legally distinct IRC. 
